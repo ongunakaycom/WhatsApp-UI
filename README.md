@@ -12,7 +12,7 @@ Website UI Clones using TailwindCSS
     <td align="center">
       <img src="https://s3.envato.com/files/428302747/43.png" width="80px" alt="profile" />
       <br/>
-      Jigar Sable
+      Ongun Akay
       <br/>
       <a href="https://www.linkedin.com/in/ongunakay/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/ongunakaycom">Github</a>
