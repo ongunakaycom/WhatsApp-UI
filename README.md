@@ -2,7 +2,7 @@
 
 <img width="1028" alt="Email Banners-Dark" src="https://miro.medium.com/max/1400/1*yAF_t4QQSE1kX_Oj69AOkw.png">
 
-Website UI Clones using TailwindCSS
+WhatsApp UI design, case study: redesigning, clone the most widely used chatting app
 
 - [x] <a href="https://replit.com/@OngunAkay/whatsapp-clone" target="_blank">**WhatsApp Web**</a>
 
