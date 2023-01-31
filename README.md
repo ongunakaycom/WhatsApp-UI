@@ -6,13 +6,11 @@ Website UI Clones using TailwindCSS
 
 - [x] <a href="https://replit.com/@OngunAkay/whatsapp-clone" target="_blank">**WhatsApp Web**</a>
 
-<img src="https://user-images.githubusercontent.com/64949957/130316476-55a7b91e-801e-4698-8c87-31ae3cd1d1b8.png" height=300 width=500/>
-
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/64949957" width="150px" alt="profile" />
+      <img src="https://s3.envato.com/files/428302747/43.png" width="150px" alt="profile" />
       <br/>
       Jigar Sable
       <br/>
