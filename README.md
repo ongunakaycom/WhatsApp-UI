@@ -36,7 +36,7 @@ Website UI Clones using TailwindCSS
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongunakay/)
+[![linkedin](https://s3.envato.com/files/428302747/43.png)](https://www.linkedin.com/in/ongunakay/)
 
 ## 👨‍💻 Happy Coding!
 
