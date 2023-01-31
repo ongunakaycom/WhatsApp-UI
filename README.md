@@ -10,7 +10,7 @@ Website UI Clones using TailwindCSS
 <table>
   <tr>
     <td align="center">
-      <img src="https://s3.envato.com/files/428302747/43.png" width="150px" alt="profile" />
+      <img src="https://s3.envato.com/files/428302747/43.png" width="80px" alt="profile" />
       <br/>
       Jigar Sable
       <br/>
